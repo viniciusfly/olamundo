@@ -3,14 +3,14 @@
     padding: 0% 24px;
 font-size: 24px;    
 }
-.cabecalho {background-color: rgba(135, 5, 241, 0.876);color: white; 
+.cabecalho {background-color: rgb(202, 5, 241);color: white; 
     display:flex;
 justify-content: space-around; padding: 2% 24px;}
 .cabecalho-imagem{width: 5%;}
 .cabecalho-lista-item{display: inline-block;margin: 0% 16px;
 }
 .imagem-escola {width: 25%;}
-.escola{background-image:linear-gradient(rgba(117, 5, 198, 0.821),rgb(45, 10, 202));color: aliceblue;display: flex;}
+.escola{background-image:linear-gradient(rgb(8, 13, 134),rgb(170, 10, 202));color: aliceblue;display: flex;}
 
 .escola-conteudo{width:35%;}
 .escola{display:flex;justify-content: center;align-items: center;padding: 24px 0;}
