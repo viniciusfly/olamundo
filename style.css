@@ -10,7 +10,7 @@ justify-content: space-around; padding: 2% 24px;}
 .cabecalho-lista-item{display: inline-block;margin: 0% 16px;
 }
 .imagem-escola {width: 25%;}
-.escola{background-image:linear-gradient(rgb(9, 12, 124),rgb(170, 10, 202));color: aliceblue;display: flex;}
+.escola{background-image:linear-gradient(rgb(9, 12, 124),rgb(232, 9, 139));color: aliceblue;display: flex;}
 
 .escola-conteudo{width:35%;}
 .escola{display:flex;justify-content: center;align-items: center;padding: 24px 0;}
