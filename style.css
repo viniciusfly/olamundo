@@ -3,7 +3,7 @@
     padding: 0% 24px;
 font-size: 24px;    
 }
-.cabecalho {background-color: rgb(44, 19, 143);color: white; 
+.cabecalho {background-color: rgb(30, 13, 97);color: white; 
     display:flex;
 justify-content: space-around; padding: 2% 24px;}
 .cabecalho-imagem{width: 5%;}
